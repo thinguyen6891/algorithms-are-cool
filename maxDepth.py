@@ -1,8 +1,7 @@
 """
 2023-12-23
-226. Invert Binary Tree
-Given the root of a binary tree, invert the tree, and return its root.
-https://leetcode.com/problems/invert-binary-tree/
+104. Maximum Depth of Binary Tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
 """
 
 # Definition for a binary tree node.
